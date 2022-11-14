@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARWX3pHV+TuMnZPEatlV2qzydo5xzDK/g6V+y8TanZk+XGa5g9oxzunMv8iapBYeJU70CADmh5h4pf6VZmOrHA==",
+  "success": true,
+  "projectFilePath": "E:\\Flutter\\ContentManagementStudio\\CMS\\backend\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
